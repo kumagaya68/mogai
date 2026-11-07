@@ -1,10 +1,10 @@
-name = "GitHub仓库名"
+name = "mogai"
 main = "_worker.js"
 compatibility_date = "2024-11-01"
 
 [vars]
-L = "你的登录路径"
+L = "admin"
 
 [[kv_namespaces]]
 binding = "K"
-id = "你的KV空间id"
+id = "fd93025a10254f9dbebae16cafd89446"
